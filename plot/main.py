@@ -41,4 +41,4 @@ def plot(plotdata, output):
 
 configure_pandas()
 data = read_data("casting-benchmark-shuffled.txt")
-plot(data, "casting-benchmark-shuffle.png")
+plot(data, "casting-benchmark.png")
